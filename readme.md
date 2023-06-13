@@ -10,11 +10,9 @@ This is a simple URL shortener API built using Node.js, Express, and MongoDB. Th
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone nodeJS_URL-Shortner
-
-   ```
+```bash
+ git clone nodeJS_URL-Shortner
+```
 
 2. Navigate to the project directory:
 
