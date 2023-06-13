@@ -17,7 +17,7 @@ This is a simple URL shortener API built using Node.js, Express, and MongoDB. Th
 2. Navigate to the project directory:
 
 ```bash
-cd url-shortener-api
+cd nodeJS_URL-Shortner
 
 ```
 
