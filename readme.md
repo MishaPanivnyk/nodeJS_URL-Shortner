@@ -64,4 +64,4 @@ Response:
 }
 ```
 
-GET /api/url/:shortUrl: Redirect to the original URL associated with the short URL.
+GET /api/url/:shortUrl: Redirect to the original URL associated with the short URL.                  
